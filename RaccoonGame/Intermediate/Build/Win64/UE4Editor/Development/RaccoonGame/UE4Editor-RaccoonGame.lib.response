@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RaccoonGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jimfl\OneDrive\Documents\GitHub\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\RaccoonGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\jimfl\OneDrive\Documents\GitHub\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Development\RaccoonGame\RaccoonGame.cpp.obj"
+"C:\Users\jimfl\OneDrive\Documents\GitHub\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Development\RaccoonGame\RaccoonGameGameModeBase.cpp.obj"
+"C:\Users\jimfl\OneDrive\Documents\GitHub\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Development\RaccoonGame\RaccoonGame.init.gen.cpp.obj"
+"C:\Users\jimfl\OneDrive\Documents\GitHub\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Development\RaccoonGame\RaccoonGameGameModeBase.gen.cpp.obj"
+"C:\Users\jimfl\OneDrive\Documents\GitHub\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Development\RaccoonGame\Default.rc2.res"
+/OUT:"C:\Users\jimfl\OneDrive\Documents\GitHub\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Development\RaccoonGame\UE4Editor-RaccoonGame.lib"

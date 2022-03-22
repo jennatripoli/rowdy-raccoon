@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RaccoonGame",
+			"Path": "C:\\Users\\jimfl\\OneDrive\\Documents\\GitHub\\RaccoonGame\\RaccoonGame\\Source\\RaccoonGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RaccoonGameEditor",
+			"Path": "C:\\Users\\jimfl\\OneDrive\\Documents\\GitHub\\RaccoonGame\\RaccoonGame\\Source\\RaccoonGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
