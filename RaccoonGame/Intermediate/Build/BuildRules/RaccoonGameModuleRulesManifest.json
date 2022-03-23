@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\jimfl\\OneDrive\\Documents\\GitHub\\RaccoonGame\\RaccoonGame\\Source\\RaccoonGame\\RaccoonGame.Build.cs",
-		"C:\\Users\\jimfl\\OneDrive\\Documents\\GitHub\\RaccoonGame\\RaccoonGame\\Source\\RaccoonGame.Target.cs",
-		"C:\\Users\\jimfl\\OneDrive\\Documents\\GitHub\\RaccoonGame\\RaccoonGame\\Source\\RaccoonGameEditor.Target.cs"
+		"C:\\Users\\kijam\\Documents\\Unreal Projects\\RaccoonGame\\RaccoonGame\\Source\\RaccoonGame\\RaccoonGame.Build.cs",
+		"C:\\Users\\kijam\\Documents\\Unreal Projects\\RaccoonGame\\RaccoonGame\\Source\\RaccoonGame.Target.cs",
+		"C:\\Users\\kijam\\Documents\\Unreal Projects\\RaccoonGame\\RaccoonGame\\Source\\RaccoonGameEditor.Target.cs"
 	],
 	"EngineVersion": "4.27.2"
 }
