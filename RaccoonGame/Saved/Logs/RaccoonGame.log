@@ -1150,3 +1150,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.24-16.01.18:366][550]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
 [2022.03.24-16.01.18:366][550]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
 [2022.03.24-16.01.18:530][550]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.03.24-16.11.47:648][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.03.24-16.11.47:651][682]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonStart' took 0.013
