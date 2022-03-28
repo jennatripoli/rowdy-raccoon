@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\RaccoonGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{9A437FE4-AA9A-4DDB-8F41-FC69B886B073}</UniqueIdentifier>
+      <UniqueIdentifier>{3C7CBB54-8B01-4C5F-BD36-F322A13FDE9A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RaccoonGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{EEBA9B20-E6EC-4095-B037-F1AB685474EF}</UniqueIdentifier>
+      <UniqueIdentifier>{C6872AE4-6C18-47CB-9377-FCBFF99043A9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\RaccoonGame">
-      <UniqueIdentifier>{A2AFE46B-6046-4E6E-9E3E-85ED7590C102}</UniqueIdentifier>
+      <UniqueIdentifier>{C8082FA8-54F1-41BA-9E13-7F042A4F1B86}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\RaccoonGame\RaccoonGame.Build.cs">
       <Filter>Source\RaccoonGame</Filter>
@@ -39,6 +42,12 @@
       <Filter>Source\RaccoonGame</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\RaccoonGame\RaccoonGameGameModeBase.h">
+      <Filter>Source\RaccoonGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RaccoonGame\Stroller.cpp">
+      <Filter>Source\RaccoonGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RaccoonGame\Stroller.h">
       <Filter>Source\RaccoonGame</Filter>
     </ClInclude>
   </ItemGroup>
