@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeRaccoonGame_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x95D3DB9A,
-				0x4DFD30C2,
+				0x83CBBDD4,
+				0xF309F141,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
