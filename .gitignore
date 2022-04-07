@@ -76,5 +76,5 @@ DerivedDataCache/*
 *.ini
 *.log
 
-Saved/Config/CrashReportClient/*
-Intermediate/Build/*
+RaccoonGame/Saved/Config/CrashReportClient/*
+RaccoonGame/Intermediate/Build/*
