@@ -32,16 +32,14 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\jflynn2\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Inc\RaccoonGame
-/I C:\Users\jflynn2\RaccoonGame\RaccoonGame\Source
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
 /I Runtime
+/I Runtime\Engine\Classes
+/I Runtime\Engine\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
-/I Runtime\Engine\Classes
-/I Runtime\Engine\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
@@ -233,6 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
+/I "C:\Users\kijam\Documents\Unreal Projects\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Inc\RaccoonGame"
+/I "C:\Users\kijam\Documents\Unreal Projects\RaccoonGame\RaccoonGame\Source"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -256,18 +256,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.2\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\jflynn2\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\RaccoonGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\jflynn2\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\RaccoonGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\jflynn2\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\RaccoonGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\jflynn2\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Inc\RaccoonGame\RaccoonGameGameModeBase.gen.cpp"
-/FI"C:\Users\jflynn2\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Development\RaccoonGame\Definitions.RaccoonGame.h"
-/Fo"C:\Users\jflynn2\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Development\RaccoonGame\RaccoonGameGameModeBase.gen.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
+/FI"C:\Users\kijam\Documents\Unreal Projects\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\RaccoonGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\kijam\Documents\Unreal Projects\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\RaccoonGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\kijam\Documents\Unreal Projects\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\RaccoonGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\kijam\Documents\Unreal Projects\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Inc\RaccoonGame\RaccoonGameGameModeBase.gen.cpp"
+/FI"C:\Users\kijam\Documents\Unreal Projects\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Development\RaccoonGame\Definitions.RaccoonGame.h"
+/Fo"C:\Users\kijam\Documents\Unreal Projects\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Development\RaccoonGame\RaccoonGameGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4
