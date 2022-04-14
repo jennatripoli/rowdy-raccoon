@@ -1,2 +1,0 @@
-C:\Users\gdrynkowski\Documents\GitHub\RaccoonGame\RaccoonGame\Intermediate\Build\Win64\UE4Editor\Development\RaccoonGame\Definitions.RaccoonGame.h
-C:\Users\gdrynkowski\Documents\GitHub\RaccoonGame\RaccoonGame\Source\RaccoonGame\RaccoonGame.h
