@@ -4,4 +4,4 @@ Skeebo is going feral! Rowdy Raccoon is a third-person game created using Unreal
 
 Visit [rowdyraccoonwpi.wordpress.com](https://rowdyraccoonwpi.wordpress.com/) to download the game and learn more about its development.
 
-This project was created for IMGD 4000 (Technical Game Development II) at Worcester Polytechnic Institute in Spring 2022.
+Spring 2022 - IMGD 4000 (Technical Game Development II) at Worcester Polytechnic Institute
