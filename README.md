@@ -1,7 +1,7 @@
 # Rowdy Raccoon
 
-**Skeebo the Rowdy Raccoon is going feral!**
-
-Mess with objects, scare away citizens, and talk to your bear friend to prove that you are the toughest raccoon in town. Try to figure out what Skeebo can do to earn points and look for bottle cap collectibles. Stay careful of Jenkins, the old man who hates raccoons and will not hesitate to shoot you. Try to complete the parkour!
+Skeebo is going feral! Rowdy Raccoon is a third-person game created using Unreal Engine 4. Taking inspiration from Goat Simulator and Untitled Goose Game, the game features a lovable player character, light-hearted gameplay, and imperfect physics. Players can interact with objects and NPCs that operate on a day-night cycle while trying to stay alive and increase their score.
 
 Visit [rowdyraccoonwpi.wordpress.com](https://rowdyraccoonwpi.wordpress.com/) to download the game and learn more about its development.
+
+This project was created for IMGD 4000 (Technical Game Development II) at Worcester Polytechnic Institute in Spring 2022.
